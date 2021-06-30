@@ -1,2 +1,2 @@
 # elephant-footprints-VGG16
-Uses a CNN from Keras to extract features from images that contain elephant footprints to cluster images together by pattern similarities.
+Using a CNN from Keras to extract features from elephant footprint images in order to cluster the images together by pattern similarity.
